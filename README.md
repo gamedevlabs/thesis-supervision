@@ -1,6 +1,9 @@
 # Thesis Supervision w/ Julian @ TUM
 If you are a TUM student and are interested in writing a thesis with me, this is the right place for you!
 
+## Capacities: Almost full!
+Right now, there are some students who are finishing up in the next few months and some who are starting in the next few months. Depending on my workload and the topics I have to supervise, I might still have one or two spots left.
+
 ## Topics
 A list of topics currently available. See the timestamp of the last commit for recency.
 
