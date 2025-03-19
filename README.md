@@ -7,7 +7,7 @@
     
     if (data && data.length > 0) {
       const lastCommitDate = new Date(data[0].commit.committer.date).toLocaleString();
-      document.getElementById("last-commit").innerText = `${lastCommitDate}`;
+      document.getElementById("last-commit").innerText = `Last updated: ${lastCommitDate}`;
     }
   }
 
@@ -18,8 +18,7 @@
 # Thesis Supervision w/ Julian @TUM
 If you are a TUM student and are interested in writing a thesis with me, this is the right place for you!
 
-## Last updated
-<p id="last-commit">Fetching last commit...</p>
+<p id="last-commit">Last updated: Fetching last commit...</p>
 
 ## Capacities: Almost full!
 Right now, there are some students who are finishing up in the next few months and some who are starting in the next few months. Depending on my workload and the topics I have to supervise, I might still have one or two spots left.
