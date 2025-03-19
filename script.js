@@ -5,7 +5,7 @@ async function fetchLastCommit() {
 
   if (data && data.length > 0) {
     const lastCommitDate = new Date(data[0].commit.committer.date).toLocaleString();
-    document.getElementById("last-commit").innerText = `Last Commit: ${lastCommitDate}`;
+    document.getElementById("last-commit").innerText = `Last updated: ${lastCommitDate}`;
   }
 }
 
