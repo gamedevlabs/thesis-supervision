@@ -1,4 +1,4 @@
-# Thesis Supervision w/ Julian @ TUM
+# Thesis Supervision w/ Julian @TUM
 If you are a TUM student and are interested in writing a thesis with me, this is the right place for you!
 
 ## Capacities: Almost full!
