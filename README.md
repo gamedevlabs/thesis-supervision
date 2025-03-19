@@ -1,7 +1,7 @@
 # Thesis Supervision w/ Julian @TUM
 If you are a TUM student and are interested in writing a thesis with me, this is the right place for you!
 
-<p id="last-commit">Last updated: Fetching last commit...</p>
+<p id="last-commit">Last updated: See timestamp of commit</p>
 <script src="script.js"></script>
 
 ## Capacities: Almost full!
