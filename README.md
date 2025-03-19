@@ -1,6 +1,6 @@
 <script>
   async function fetchLastCommit() {
-    const repo = "YOUR-USERNAME/YOUR-REPO"; // Replace with your repo
+    const repo = "gamedevlabs/thesis-supervision"; // Replace with your repo
     const response = await fetch(`https://api.github.com/repos/${repo}/commits`);
     const data = await response.json();
     
