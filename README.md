@@ -1,3 +1,4 @@
+<!--
 <script>
   async function fetchLastCommit() {
     const repo = "gamedevlabs/thesis-supervision"; // Replace with your repo
@@ -6,12 +7,13 @@
     
     if (data && data.length > 0) {
       const lastCommitDate = new Date(data[0].commit.committer.date).toLocaleString();
-      document.getElementById("last-commit").innerText = `Last Commit: ${lastCommitDate}`;
+      document.getElementById("last-commit").innerText = `${lastCommitDate}`;
     }
   }
 
   fetchLastCommit();
 </script>
+-->
 
 # Thesis Supervision w/ Julian @TUM
 If you are a TUM student and are interested in writing a thesis with me, this is the right place for you!
