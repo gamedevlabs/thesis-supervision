@@ -1,24 +1,8 @@
-<!--
-<script>
-  async function fetchLastCommit() {
-    const repo = "gamedevlabs/thesis-supervision"; // Replace with your repo
-    const response = await fetch(`https://api.github.com/repos/${repo}/commits`);
-    const data = await response.json();
-    
-    if (data && data.length > 0) {
-      const lastCommitDate = new Date(data[0].commit.committer.date).toLocaleString();
-      document.getElementById("last-commit").innerText = `Last updated: ${lastCommitDate}`;
-    }
-  }
-
-  fetchLastCommit();
-</script>
--->
-
 # Thesis Supervision w/ Julian @TUM
 If you are a TUM student and are interested in writing a thesis with me, this is the right place for you!
 
 <p id="last-commit">Last updated: Fetching last commit...</p>
+<script src="script.js"></script>
 
 ## Capacities: Almost full!
 Right now, there are some students who are finishing up in the next few months and some who are starting in the next few months. Depending on my workload and the topics I have to supervise, I might still have one or two spots left.
