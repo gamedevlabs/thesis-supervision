@@ -7,23 +7,26 @@ If you are a TUM student and are interested in writing a thesis with me, this is
 Right now, there are some students who are finishing up in the next few months and some who are starting in the next few months. Depending on my workload and the topics I have to supervise, I might still have one or two spots left.
 
 ## Topics
-A list of topics currently available. See the timestamp of the last commit for recency.
-
-### PIX:E - Player Interaction & Experience Engine
-Languages & Frameworks: Vue.js (Frontend), Python (Backend)
-
-The Player Interaction & Experience Engine is my main research interest. The vision is to develop a tool that supports the game designer and the team by breaking down complex tasks, tracking dependencies within the design, and helping in the ideation stage of a project. There exists a paper about [PaceMaker], the proof of concept in the early stages of the project. Since then, it has evolved from pacing considerations to general game design support in terms of player experience, PIX:E. The project has many interesting sides for potential thesis topics. Here are the highest priority topics as of now.
+My main research interest is a toolkit called "PIX:E - Player Interaction & Experience Engine". The vision for it is to provide support in game development for the game designer and the team by breaking down complex tasks, tracking dependencies within the design, and helping in the ideation stage of a project. There exists a paper about [PaceMaker], the proof of concept in the early stages of the project. Since then, it has evolved from pacing considerations to general game design support in terms of player experience, PIX:E. The project has many interesting sides for potential thesis topics. Here are the highest priority topics as of now.
 
 #### Integration and Extension of Formalized Play Building Blocks
+Keywords: Frontend, Vue.js
+
 There are 4 building blocks which make up our proposed game design formalization: gameplay beats, pacing diagrams, experience charts, and maps. The first three are implemented in PIX:E in a very basic form. however, in the current version, gameplay beats are not very modular, pacing diagrams are limited to intensity values, and the experience charts do not support concurrency or nesting (see [Statecharts]). Furthermore, maps are not implemented at all. This topic revolves around the extension of existing building blocks and the integration of maps into PIX:E.
 
 #### Usability Improvements
+Keywords: Frontend, Vue.js
+
 The current version is not very user friendly and needs drastic improvements to the overall workflow. Therefore, this topic includes research about UX and the integration of usability concepts into the frontend of PIX:E.
 
 #### Interactive Moodboard Generator
+Keywords: Multimodal LLMs, GenAI, Full-stack, Vue.js, Python
+
 This topic involves the integration of multimodal LMMs and GenAI to create functionality for generating moodboards as a mixed initiative toolkit. The user should be able to prompt the model with a description of the mood and possibly some reference images as well. The model should then in an expansive phase generate versions of images that might fit the description. The user can then pick the ones they like to add to the board, or refine by telling the model to go more into a certain direction (e.g. when generating 4 images, one could tell the model to go more into the direction of image 3).
 
 #### Backend Implementation with Open Source LLMs
+Keywords: Full-stack, LLMs, Vue.js, Python
+
 In order to have a tool that is supported by LLMs and multimodal models, we need to have a backend that runs these resource heavy models. This thesis topis therefore revolves around setting up a backend infrastructure that allows prompting the models running in the backend from the frontend and receiving their answers.
 
 [PaceMaker]: https://arxiv.org/pdf/2408.15001
