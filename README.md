@@ -4,7 +4,7 @@ If you are a TUM student and are interested in writing a thesis with me, this is
 <p id="last-commit">Last updated: See timestamp of commit</p>
 
 ## Capacities: Full!
-My capacities for this summer are at their limits.
+My capacities for this winter are almost full! I only take highly relevant topics, which are coming soon.
 
 ## Topics
 My main research interest is a toolkit called "pix:e - Player Experience Engine". The vision for it is to provide support in game development for the game designer and the team by breaking down complex tasks, tracking dependencies within the design, and helping in the ideation stage of a project. There exists a paper about [PaceMaker], the proof of concept in the early stages of the project. Since then, it has evolved from pacing considerations to general game design support in terms of player experience, pix:e. The project has many interesting sides for potential thesis topics. Here are the highest priority topics as of now.
