@@ -3,7 +3,7 @@ If you are a TUM student and are interested in writing a thesis with me, this is
 
 <p id="last-commit">Last updated: See timestamp of commit</p>
 
-## Capacities: Full!
+## Capacities: (Almost) Full!
 My capacities for this winter are almost full! I only take highly relevant topics (see below) and promising students.
 
 ## Topics
