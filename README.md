@@ -6,8 +6,11 @@ If you are a TUM student and are interested in writing a thesis with me, this is
 ## Capacities: (Almost) Full!
 My capacities for this winter are almost full! I only take highly relevant topics (see below) and promising students.
 
+## How to reach out
+Send me an email with a short description which topic below interests you and why. You can also suggest your own topics, but there is no guarantee I am going to like it. Also attach your transcript of records and put a smiley of your choice in the subject line :^)
+
 ## Topics
-My main research interest is a toolkit called "pix:e - Player Experience Engine". The vision for it is to provide support in game development for the game designer and the team by breaking down complex tasks, tracking dependencies within the design, and helping in the ideation stage of a project. There exists a paper about [PaceMaker], the proof of concept in the early stages of the project. Since then, it has evolved from pacing considerations to general game design support in terms of player experience, pix:e. The project has many interesting sides for potential thesis topics. Here are the highest priority topics as of now.
+My main research interest is a toolkit called "pix:e - Player Experience Engine". The vision for it is to provide support in game development for the game designer and the team by breaking down complex tasks, tracking dependencies within the design, and helping in the ideation stage of a project. There exists a paper about [PaceMaker], the proof of concept in the early stages of the project. Since then, it has evolved from pacing considerations to general game design support in terms of player experience, pix:e. The project consists of a frontend written in Nuxt4 and a backend written in Django and has many interesting sides for potential thesis topics. Here are the highest priority topics as of now.
 
 #### Workflow Integration
 Keywords: Frontend, Vue.js, Nuxt
@@ -15,9 +18,9 @@ Keywords: Frontend, Vue.js, Nuxt
 Currently, pix:e is a loosely coupled collection of tools and features and it is missing a concrete workflow. Part of this topic would be to research sensible approaches and implement one (or a few) with a user-evaluation at the end.
 
 #### Graph Traversal
-Keywords: Pathfinding, Algorithms, Data-Analysis, Fullstack
+Keywords: Pathfinding, Algorithms, Data-Analysis, Fullstack (Django, Nuxt)
 
-pix:e is currently providng the ability to design a graph of player experiences, but there is no analysis of this graph and its dependencies implemented. Part of this topic would be to research ways to traverse this graph (i.e. pathfinding) and provide sensible data to the designer that gives insights into certain dependencies, like lock&key mechanics or whether certain requirements are being met (similar to [PaceMaker]'s pacing diagrams).
+pix:e is currently providng the ability to design a graph of player experiences, but there is no analysis of this graph and its dependencies implemented. Part of this topic would be to research ways to traverse this graph (i.e. pathfinding) and provide sensible data to the designer that gives insights into certain dependencies, like lock&key mechanics, pacing (see [PaceMaker]'s pacing diagrams) or whether certain requirements are being met.
 
 
 [PaceMaker]: https://arxiv.org/pdf/2408.15001
