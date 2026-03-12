@@ -40,7 +40,7 @@ A key component of this work is identifying relevant dimensions of a game that s
 - user reviews and review summaries
 - developer-provided descriptions and feature lists
 
-As a baseline representation, the research initially adopts the ten game aspects defined in SPARC, which provide a structured framework for describing game characteristics. These aspects serve as the starting point for embedding construction and evaluation.
+As a baseline representation, the research initially adopts the ten game aspects defined in [SPARC], which provide a structured framework for describing game characteristics. These aspects serve as the starting point for embedding construction and evaluation.
 
 The embeddings are generated using modern natural language processing techniques, including transformer-based language models applied to textual game data. Additional structured metadata may be incorporated through feature engineering and combined with text embeddings to produce a unified representation of each game.
 
