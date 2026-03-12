@@ -53,12 +53,12 @@ To support efficient similarity search and analysis across large game datasets, 
 
 Ultimately, the embedding framework may be integrated into pix:e, where it could support tools for game idea exploration, competitive analysis, and design inspiration.
 
-#### Canvas View
+### Canvas View
 Keywords: Frontend, Nuxt
 
 If you like Miro, this is for you. The goal here is to take all the functionality of pix:e and build a canvas view that supports all of it. This is going to improve adoption rate of the tool and makes it more accessible in general.
 
-#### Interview Study (Bachelor / Guided Research)
+### Interview Study (Bachelor / Guided Research)
 Keywords: Interview, User Study
 
 In this thesis you are accompanying me in interviewing game design practitioners to find pain points of their workflow which can then ultimately be solved by the toolkit pix:e.
