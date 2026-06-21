@@ -3,14 +3,18 @@ If you are a TUM student and are interested in writing a thesis with me, this is
 
 <p id="last-commit">Last updated: See timestamp of commit</p>
 
-## Capacities: Full except highly related topics (see below)
-My capacities for this summer semester are pretty much exhausted.
+## Capacities: New capacities and topics coming in around August/September
 
 ## How to reach out
 Send me an email with a short description of which topic below interests you and why. You can also suggest your own topics, but there is no guarantee I am going to supervise it. Also attach your transcript of records and put a smiley of your choice in the subject line :^)
 
 ## Topics
 My main research interest is a toolkit called "pix:e - Player Experience Engine". The vision for it is to provide support in game development for the game designer and the team by breaking down complex tasks, tracking dependencies within the design, and helping in the ideation stage of a project. There exists a paper about [PaceMaker], the proof of concept in the early stages of the project. Since then, it has evolved from pacing considerations to general game design support in terms of player experience, pix:e. The project consists of a frontend written in Nuxt4 and a backend written in Django and has many interesting sides for potential thesis topics. Here are the highest priority topics as of now.
+
+### Digital Whiteboard
+Keywords: Nuxt4, Vuejs, Frontend
+
+In this thesis you are updating the user interface of pix:e to more closely resemble that of digitial whiteboards like Miro or Figjam.
 
 ### Interview Study (Bachelor / Guided Research)
 Keywords: Interview, User Study
