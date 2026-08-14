@@ -27,10 +27,17 @@ Keywords: Full-stack, Nuxt4, Django
 
 A case study where [SPARC] and [SPINE] were used to develop a game revealed their usefulness. At the same time, smaller issues and new ideas arose based on the findings. Your task in this thesis is to look at the results of the case study and find and implement solutions for the currently existing issues and ideas.
 
+### Steam Review Analysis
+Keywords: Python, LLMs, Data Analysis
+Bonus: Co-authorship likely
+
+We analyzed 100.000 steam reviews and extracted player expectations. Player expectations help developers understand what players expect of a given genre or type of game. This thesis continues this work and cleans up the results. 
+
 ### Game Designer Interview Study (Bachelor / Guided Research)
 Keywords: Interview, User Study
+Bonus: Co-authorship highly likely
 
-Interviewing Game Designers for problems in their workflow is a high value activity for everyone involved, as unveils the actual problems in real world scenarios, and leads to new research directions to solve these problems. We already interviewed 7 game designers, and the intermediate results are very promising. Now we want to interview another batch of a similar size to strengthen the results. Co-Authorship at the end of this is highly likely, as we intend to publish the results either way. In this thesis you are accompanying me in interviewing game design practitioners to find pain points of their workflow which can then ultimately be solved by the toolkit pix:e.
+Interviewing Game Designers for problems in their workflow is a high value activity for everyone involved, as unveils the actual problems in real world scenarios, and leads to new research directions to solve these problems. We already interviewed 7 game designers, and the intermediate results are very promising. Now we want to interview another batch of a similar size to strengthen the results. In this thesis you are accompanying me in interviewing game design practitioners to find pain points of their workflow which can then ultimately be solved by the toolkit pix:e.
 
 
 [PaceMaker]: https://arxiv.org/pdf/2408.15001
