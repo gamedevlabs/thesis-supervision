@@ -39,6 +39,9 @@ Bonus: Co-authorship highly likely
 
 Interviewing Game Designers for problems in their workflow is a high value activity for everyone involved, as unveils the actual problems in real world scenarios, and leads to new research directions to solve these problems. We already interviewed 7 game designers, and the intermediate results are very promising. Now we want to interview another batch of a similar size to strengthen the results. In this thesis you are accompanying me in interviewing game design practitioners to find pain points of their workflow which can then ultimately be solved by the toolkit pix:e.
 
+# Other Supervision: Gameslab Practical Course
+I also supervise Gameslab practical courses. You can choose a topic or I give you one. Part of the course structure is to use pix:e during development and give feedback. This replaces the "traditional" design document you would have to write in other practical courses.
+
 
 [PaceMaker]: https://arxiv.org/pdf/2408.15001
 [PacingDiagrams]: https://dl.acm.org/doi/full/10.1145/3815598.3815683
