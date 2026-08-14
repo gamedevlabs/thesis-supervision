@@ -3,7 +3,8 @@ If you are a TUM student and are interested in writing a thesis with me, this is
 
 <p id="last-commit">Last updated: See timestamp of commit</p>
 
-## Capacities: New capacities and topics coming in around August/September
+## Capacities: High*
+*I currently have high capacities, but my focus for the upcoming year is to finish my dissertation, so I only take highly relevant topics.
 
 ## How to reach out
 Send me an email with a short description of which topic below interests you and why. You can also suggest your own topics, but there is no guarantee I am going to supervise it. Also attach your transcript of records and put a smiley of your choice in the subject line :^)
