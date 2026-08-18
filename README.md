@@ -41,10 +41,10 @@ Interviewing Game Designers for problems in their workflow is a high value activ
 
 # Other Supervision
 
-### Normal Practical Course
+### Normal Practical Course (Groups of 3-4)
 I sometimes supervise a group of students in a normal practical course in a topic related to pix:e. Generally speaking, you would be doing frontend and/or backend development for new and existing features. The details are usually discussed based on the team and the current state of the tool.
 
-### Gameslab Practical Course
+### Gameslab Practical Course (Groups of 3-4)
 I also supervise Gameslab practical courses. You can choose a topic or I give you one. Part of the course structure is to use pix:e during development and give feedback. This replaces the "traditional" design document you would have to write in other practical courses.
 
 
